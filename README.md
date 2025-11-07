@@ -68,8 +68,8 @@ DreamsComeTrue/
 
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| 🧑‍💻 **yeoning** | 기획 · 메인 로직 · UI 설계 | [@yeoning22](https://github.com/yeoning22) |
-| 👩‍💻 **익명** | 보조 개발 · 디자인 · 테스트 | (없음) |
+| 👩‍💻 **yeoning** | 기획 · 메인 로직 · UI 설계 | [@yeoning22](https://github.com/yeoning22) |
+| 🧑‍💻 **익명** | 보조 개발 · 디자인 · 테스트 | (없음) |
 
 ---
 
