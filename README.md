@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ecb6bd73-6c83-4fb8-a5bc-b9d4c2cdd12a" width="100%" />
+</p>
+
 # 📜 DreamsComeTrue
 > 게임처럼 즐기는 투두리스트 앱  
 > 매일의 할 일을 퀘스트처럼 수행하고, 경험치와 보상을 모아 성장하는 **게이미피케이션형 생산성 앱**
